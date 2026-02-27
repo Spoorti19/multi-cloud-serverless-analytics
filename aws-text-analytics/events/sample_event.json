@@ -1,0 +1,8 @@
+{
+  "text": "Cloud computing enables scalable applications. Serverless functions scale automatically.",
+  "analyses": {
+    "word_freq": true,
+    "sentence_starts": true,
+    "sentence_stats": true
+  }
+}
